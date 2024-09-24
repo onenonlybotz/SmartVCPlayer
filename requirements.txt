@@ -14,3 +14,7 @@ dnspython
 pytz
 apscheduler
 python-dotenv
+aiofiles
+aiohttp
+Flask
+gunicorn
